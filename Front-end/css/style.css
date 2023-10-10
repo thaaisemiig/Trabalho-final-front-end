@@ -1,0 +1,64 @@
+
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body {
+    background-color: beige;
+}
+
+.div1 {
+     text-align: center;
+     position: fixed;
+     left: 0;
+     background-color: #D2691E;
+     height: 100%;
+     width: 25%;
+     color: white;
+}
+
+.div2 {
+    margin-top: 10%;
+    position: fixed;
+    right: 0;
+    height: 100%;
+    width: 74%;
+    
+}
+
+.photo {
+    margin-top: 150px;
+    width: 250px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+
+ul, li {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.conhecimentos{
+    margin-top: -20%;
+    position: fixed;
+    right: 0%;
+    width: 120%;
+    font-size: 40px;
+    color: #4F4F4F;
+    
+}
+
+.objetivos {
+    margin-top: -50%;
+    text-align: center;
+    font-size: 30px;
+    color: #4F4F4F;
+    margin-left: 100%;
+    width: 300%;
+}
